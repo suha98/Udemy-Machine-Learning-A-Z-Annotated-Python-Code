@@ -6,13 +6,15 @@
 
 <p> <em>All of the annotations are my own work and were made to help programmers (including myself) in better understanding the course tutorials. </em> </p>
 
-<p><strong> Small sample of a notebook: </strong> <p>
-  
- <img src="https://github.com/suha98/Udemy-Machine-Learning-A-Z-Annotated-Python-Code/blob/master/screenshot.png" width="800" height="600">
-
 <p><strong> List of notebooks: </strong> <p>
 
 <ol>
   <li> Data Preprocessing Tools </li>
   <li> Simple Linear Regression </li>
 </ol>
+
+<p><strong> Small sample of a notebook: </strong> <p>
+  
+ <img src="https://github.com/suha98/Udemy-Machine-Learning-A-Z-Annotated-Python-Code/blob/master/screenshot.png" width="800" height="600">
+
+
