@@ -17,6 +17,7 @@ _All of the annotations are my own work and were made to help programmers (inclu
 
 1. Data Preprocessing Tools
 2. Simple Linear Regression
+3. Multiple Linear Regression
 
 </font>
 
