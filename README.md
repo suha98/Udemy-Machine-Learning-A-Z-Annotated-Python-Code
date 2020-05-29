@@ -1,11 +1,6 @@
----
-title: ""
-output: html_document
----
 
 # Notes Upon The Udemy Machine Learning A-Z Course Python Notebooks
 
-***
 
 #### **What You Will Find:**
 
@@ -13,7 +8,6 @@ output: html_document
 
 _All of the annotations are my own work and were made to help programmers (including myself) better understand the course tutorials._ </font size>
 
-***
 
 #### **List of notebooks:**
 
@@ -21,8 +15,6 @@ _All of the annotations are my own work and were made to help programmers (inclu
 
 1. Data Preprocessing Tools
 2. Simple Linear Regression
-
-***
 
 </font size>
 
